@@ -26,4 +26,4 @@ Press I5 to advance the night and ensure the flip-flops update sequentially. Ver
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDs
